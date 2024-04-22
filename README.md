@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarloTortoriello
 - 👀 I’m interested in Electronic and communication systems
-- 🌱 I’m currently learning how to efficiently work under high pressure
+- 🌱 I’m currently working @NVIDIA
 - 📫 How to reach me:   email: ctorto2@uic.edu
 
 <!---
